@@ -97,15 +97,15 @@ axios: {
 },
 
 manifest: {
-  name: "cohotek",
-  short_name: "cohotek",
+  name: "Techbar",
+  short_name: "Techbar",
  // start_url: "/",
  // scope: "/",
  // display: "standalone",
   orientation: "portrait-primary",
  // background_color: "#ffffff",
  // theme_color: "#123c69",
-  description: "cohotek IT company in Lagos Nigeria",
+  description: "Techbar IT company in Lagos Nigeria",
   dir: "ltr",
  // lang: "en-US",
 },
