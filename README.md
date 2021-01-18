@@ -1,4 +1,4 @@
-# cohotek
+# Techbar
 
 > Official company website
 
