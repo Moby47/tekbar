@@ -84,7 +84,7 @@ module.exports = {
 // Options
 oneSignal: {
   init: {
-    appId: '816cb025-676b-451b-9404-4e78b3d544d5',
+    appId: '6e8c1010-8097-4ac9-b7a9-1c4316591236',
     allowLocalhostAsSecureOrigin: true,
     welcomeNotification: {
         disable: true
@@ -97,15 +97,15 @@ axios: {
 },
 
 manifest: {
-  name: "Techbar",
-  short_name: "Techbar",
+  name: "Tekbar",
+  short_name: "Tekbar",
  // start_url: "/",
  // scope: "/",
  // display: "standalone",
   orientation: "portrait-primary",
  // background_color: "#ffffff",
  // theme_color: "#123c69",
-  description: "Techbar IT company in Lagos Nigeria",
+  description: "Tekbar IT company in Lagos Nigeria",
   dir: "ltr",
  // lang: "en-US",
 },
