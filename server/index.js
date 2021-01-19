@@ -1,4 +1,4 @@
-const express = require('express')
+/*const express = require('express')
 const consola = require('consola')
 const { Nuxt, Builder } = require('nuxt')
 const app = express()
@@ -32,3 +32,4 @@ async function start () {
   })
 }
 start()
+*/
