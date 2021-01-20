@@ -19,7 +19,7 @@
                   <p>
                     Building Customized Teams in Customer Support and Services for Modern Companies.</p>
                   <div class="mt-5">
-             <nuxt-link class="btn cta-color btn-primary btn-style mr-2 text-white" to="/about">About Us</nuxt-link>
+             <a class="btn cta-color btn-primary btn-style mr-2 text-white" href="https://tawk.to/chat/6007f35ac31c9117cb707dfb/1esfgt70l">Contact Us</a>
           <nuxt-link class="btn btn-outline btn-outline-style text-white custom-hover" to="/services">Our Services </nuxt-link>
                   </div>
               </div>

@@ -26,8 +26,14 @@ module.exports = {
      { src: '/js/lightbox-plus-jquery.min.js'},
      { src: '/js/custom.js'},
      { src: '/js/owl.carousel.js'},
+     {
+      hid:"tawk.to",
+      src:"https://embed.tawk.to/6007f35ac31c9117cb707dfb/1esfgt70l",
+      defer: true
+    }
     ],
 
+   
     link: [
      // { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
      { rel: 'apple-touch-icon', sizes: '180x180', href: '/favicons/apple-touch-icon.png' },
