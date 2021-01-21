@@ -9592,8 +9592,10 @@ p.white {
     box-shadow: 0 25px 98px 0 rgba(0, 0, 0, 0.1); } }
 
 .banner {
-  background-color: #0c0e27;
-  background-color: #1382c5;
+  background: url(../images/about-tekbar-it-company.png) no-repeat;
+  background-size: cover;
+  position: relative; 
+  background-color: rgb(0 0 0 / 48%);
   color: white; }
 
 /*===================================*
@@ -10089,7 +10091,7 @@ max-width: 480px
     width: 100%; } }
 
 .stats {
-  background: url(../images/cohotek-web-project.png) no-repeat center;
+  background: url(../images/tekbar-web-project.png) no-repeat center;
   background-size: cover;
   position: relative; }
 

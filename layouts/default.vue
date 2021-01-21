@@ -6,7 +6,7 @@
 <header id="site-header" class="fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark">
         <nuxt-link  class="navbar-brand" to="/">
-            <span class="fa fa-bars"></span> TekBar
+            <span class="fa fa-bars hide-mobile"></span> TekBar
         </nuxt-link>
         <button class="navbar-toggler bg-gradient" type="button" data-toggle=""
             data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"

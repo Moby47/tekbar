@@ -22,7 +22,7 @@
           <div class="row about-content">
               <div class="col-lg-6 info mb-lg-0 mb-5 align-center">
                <!--   <span class="title">Technology</span> -->
-                  <h6> We started as a small support service with a few clients and a big desire to build a company that makes communication between customers and business human-like, easy and affordable.
+                  <h6> We started as a small customer support service with a few clients and a desire to build a company that makes communication between customers and business human-like, easy and affordable.
 
                     We’ve been delivering customer support since 2018. 
                     </h6>
@@ -31,8 +31,8 @@
                <!--   <a href="#author" class="author"><span class="fa fa-user mr-2"></span>Alexander Smith</a>
             -->  </div>
               <div class="col-lg-6">
-                  <img src="@/assets/images/about-cohotek-it-company.png"
-                   class="img-fluid img-shadow" alt="cohotek it company">
+                  <img src="@/assets/images/about-tekbar-it-company.png"
+                   class="img-fluid img-shadow" alt="tekbar it company">
               </div>
           </div>
       </div>
@@ -54,7 +54,7 @@
                               </div>
                           </div>
                           <div class="col-10 mobile-right-info">
-                              <h6><a href="#cohotek IT company">Interactions </a></h6>
+                              <h6><a href="#tekbar IT company">Interactions </a></h6>
                               <p>We solved more than 90,000 interactions
                                     </p>
                           </div>
@@ -67,14 +67,14 @@
                                 </div>
                             </div>
                             <div class="col-10 mobile-right-info">
-                                <h6><a href="#cohotek IT company">Rating</a></h6>
+                                <h6><a href="#tekbar IT company">Rating</a></h6>
                                 <p>We achieved 95% satisfaction rate</p>
                             </div>
                         </div>
 
                   </div>
                   <div class="col-lg-4 mobile-left">
-                      <img src="@/assets/images/cohotek-it-company-services.png" class="img-fluid" alt="cohotek web development company in lagos">
+                      <img src="@/assets/images/tekbar-it-company-services.png" class="img-fluid" alt="tekbar web development company in lagos">
                   </div>
                   <div class="col-lg-4 mobile-right">
                       <div class="row mobile-right-grids mb-lg-5 mb-4">
@@ -84,8 +84,8 @@
                               </div>
                           </div>
                           <div class="col-10 mobile-right-info">
-                              <h6><a href="#cohotek IT company">For Anyone</a></h6>
-                              <p>We work together, since 2018</p>
+                              <h6><a href="#tekbar IT company">For Anyone</a></h6>
+                              <p>Working together, since 2018</p>
                           </div>
                       </div>
                      
@@ -96,7 +96,7 @@
                               </div>
                           </div>
                           <div class="col-10 mobile-right-info">
-                              <h6><a href="#cohotek IT company">Language</a></h6>
+                              <h6><a href="#tekbar IT company">Language</a></h6>
                               <p>We are native English specialists</p>
                           </div>
                       </div>
@@ -123,7 +123,7 @@
               <div class="row grid-col-4 text-center mt-5">
                   <div class="team-colomn col-lg-4 col-md-6 col-sm-6">
                       <div class="team-main-6">
-                          <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/henry-onyemaobi.png" alt=" "></a>
+                          <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/henry-onyemaobi.png" alt="Henry Onyemaobi"></a>
                           <h6><a href="#team-single.html" class="title-team-32">Henry Onyemaobi</a></h6>
                           <p class="sm-text-32">CEO / Founder</p>
                           <div class="social-teams mt-2">
@@ -133,9 +133,9 @@
                   </div>
                   <div class="team-colomn col-lg-4 col-md-6 col-sm-6 mt-md-0 mt-5">
                       <div class="team-main-6">
-                          <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/gabriel-alaje.png" alt=" "></a>
+                          <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/gabriel-alaje.png" alt="Gabriel Alaje"></a>
                           <h6><a href="#team-single.html" class="title-team-32">Gabriel Alaje</a></h6>
-                          <p class="sm-text-32">Entrepreneur</p>
+                          <p class="sm-text-32">Director of Customer Success</p>
                           <div class="social-teams mt-2">
                               <a class="facebook" href="https://www.linkedin.com/in/gabriel-alaje-4abab38b" target='_blank'><span class="fa fa-linkedin" aria-hidden="true"></span></a>
                           </div>
@@ -143,9 +143,9 @@
                   </div>
                   <div class="team-colomn col-lg-4 col-md-6 col-sm-6 mt-lg-0 mt-5">
                       <div class="team-main-6">
-                          <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/vincent-moyaki.png" alt=" "></a>
+                          <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/vincent-moyaki.png" alt="Vincent Moyaki"></a>
                           <h6><a href="#team-single.html" class="title-team-32">Vincent Moyaki</a></h6>
-                          <p class="sm-text-32">Financial Examiner</p>
+                          <p class="sm-text-32">Integration Manager</p>
   
                           <div class="social-teams mt-2">
                               <a class="facebook" href="https://www.linkedin.com/in/vincent-moyaki-180b15167" target='_blank'><span class="fa fa-linkedin" aria-hidden="true"></span></a>
@@ -154,9 +154,9 @@
                   </div>
                   <div class="team-colomn col-lg-4 col-md-6 col-sm-6 mt-lg-0 mt-5">
                     <div class="team-main-6">
-                        <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/mary-airhunde.png" alt=" "></a>
+                        <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/mary-airhunde.png" alt="Mary Airhunde"></a>
                         <h6><a href="#team-single.html" class="title-team-32">Mary Airhunde</a></h6>
-                        <p class="sm-text-32">Financial Examiner</p>
+                        <p class="sm-text-32">Sr. Operations Manager</p>
 
                         <div class="social-teams mt-2">
                             <a class="facebook" href="https://www.linkedin.com/in/mary-oghogho-airhunde-32098b125" target='_blank'><span class="fa fa-linkedin" aria-hidden="true"></span></a>
@@ -165,9 +165,9 @@
                 </div>
                 <div class="team-colomn col-lg-4 col-md-6 col-sm-6 mt-lg-0 mt-5">
                     <div class="team-main-6">
-                        <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/ekwutosi-okeh.png" alt=" "></a>
-                        <h6><a href="#team-single.html" class="title-team-32">Lucas Jacob</a></h6>
-                        <p class="sm-text-32">Financial Examiner</p>
+                        <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/ekwutosi-okeh.png" alt="Ekwutosi Okeh"></a>
+                        <h6><a href="#team-single.html" class="title-team-32">Ekwutosi Okeh</a></h6>
+                        <p class="sm-text-32">Head of HR and Recruitment</p>
 
                         <div class="social-teams mt-2">
                             <a class="facebook" href="https://www.linkedin.com/in/okeh-ekwyfreedom2740/" target='_blank'><span class="fa fa-linkedin" aria-hidden="true"></span></a>
@@ -176,12 +176,12 @@
                 </div>
                 <div class="team-colomn col-lg-4 col-md-6 col-sm-6 mt-lg-0 mt-5">
                         <div class="team-main-6">
-                            <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/henry-onyemaobi.png" alt=" "></a>
-                            <h6><a href="#team-single.html" class="title-team-32">Lucas Jacob</a></h6>
-                            <p class="sm-text-32">Financial Examiner</p>
+                            <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/timothy-orkuma.png" alt="Orkuma Timothy"></a>
+                            <h6><a href="#team-single.html" class="title-team-32">Orkuma Timothy</a></h6>
+                            <p class="sm-text-32">Process Excellence Manager</p>
     
                             <div class="social-teams mt-2">
-                                <a class="facebook" href="#url" target='_blank'><span class="fa fa-linkedin" aria-hidden="true"></span></a>
+                                <a class="facebook" href="https://www.linkedin.com/in/timothy-orkuma-3a2096147" target='_blank'><span class="fa fa-linkedin" aria-hidden="true"></span></a>
                             </div>
                         </div>
                     </div>
@@ -236,7 +236,8 @@
                   </form>-->
 
                   <p class='text-center'>
-      <nuxt-link to='#' class="btn btn-primary cta-color btn-style mt-2 text-center">Lets Talk</nuxt-link>
+      <a target='_blank'
+      href="https://tawk.to/chat/6007f35ac31c9117cb707dfb/1esfgt70l" class="btn btn-primary cta-color btn-style mt-2 text-center">Lets Talk</a>
                 </p>
               </div>
           </div>
@@ -256,11 +257,11 @@
       
         head(){
     return {
-      title: "About the Best Web Development Company in Lagos",
+      title: "About Tekbar customer support and services company",
       meta:[
         
-          { hid: 'description6', name: 'description', content: 'cohotek IT company in Lagos Nigeria delivers innovative custom web designs, web development and digital marketing services.' },
-          { name: 'keywords', content: 'digital marketing, seo, web development in lagos, cohotek, it company, it firm, website, web design, web application, web, web development, wordpress, php, html, web instructor, developer, porfolio, henry onyemaobi,website instructor, website teacher' },
+      { hid: 'description6', name: 'description', content: 'Tekbar IT company delivers innovative customer support and services.' },
+          { name: 'keywords', content: 'customer support, digital marketing, seo, tekbar, it company, it firm, live chat, web design, community support, web, web development, wordpress,CRM, developer,virtual assistant, henry onyemaobi,customer service,data entry' },
         
       ]
     }

@@ -103,15 +103,15 @@ axios: {
 },
 
 manifest: {
-  name: "Tekbar",
-  short_name: "Tekbar",
+  name: "TekBar",
+  short_name: "TekBar",
  // start_url: "/",
  // scope: "/",
  // display: "standalone",
   orientation: "portrait-primary",
  // background_color: "#ffffff",
  // theme_color: "#123c69",
-  description: "Tekbar IT company in Lagos Nigeria",
+  description: "Tekbar Customer support and services company",
   dir: "ltr",
  // lang: "en-US",
 },

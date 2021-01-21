@@ -33,21 +33,23 @@
                         <p class="text-para">
                                 Dedicated agents with a variety of tech backgrounds, trained to handle the most technical of issues, with a concierge level of service.
                         </p>
-                    <nuxt-link to="#" class="btn btn-primary cta-color btn-style mt-4">Contact Us</nuxt-link>
+                    <a target='_blank'
+                    href="https://tawk.to/chat/6007f35ac31c9117cb707dfb/1esfgt70l" class="btn btn-primary cta-color btn-style mt-4">Contact Us</a>
                     </div>
                     <div class="col-lg-6 feature-grid-right order1">
-                        <img src="@/assets/images/cohotek-it-company-web-development.png" class="img-fluid img-shadow" alt="services">
+                        <img src="@/assets/images/tekbar-it-company-customer-support.png" class="img-fluid img-shadow" alt="Tekbar customer support and services">
                     </div>
                 </div>
                 <div class="row main-cont-wthree-2 mt-5">
                     <div class="col-lg-6 feature-grid-right">
-                        <img src="@/assets/images/cohotek-it-company-training.png" class="img-fluid img-shadow" alt="services">
+                        <img src="@/assets/images/tekbar-it-company-support.png" class="img-fluid img-shadow" alt="Tekbar customer support and services">
                     </div>
                     <div class="col-lg-6 feature-grid-left mt-lg-0 mt-sm-5 mt-4">
-                        <h4 class="title-left">Customer Support</h4>
+                        <h4 class="title-left">Customer Support and Service</h4>
                         <p class="text-para">Dedicated agents to provide a concierge level 
-                            of service to your customers via phone, chat, email, in-app, and social media support. </p>
-                        <nuxt-link to="#" class="btn btn-primary cta-color btn-style mt-4">Contact Us</nuxt-link>
+                            of service to your customers via phone, chat, email, in-app, and social media. </p>
+                        <a target='_blank'
+                        href="https://tawk.to/chat/6007f35ac31c9117cb707dfb/1esfgt70l" class="btn btn-primary cta-color btn-style mt-4">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -70,36 +72,40 @@
                                 Customer Experience</li>
                             <li><span class="fa fa-check"></span> We will save your Department
                                 Costs</li>
-                            <li><span class="fa fa-check"></span> Level Up your
+                            <li><span class="fa fa-check"></span> We will level Up your
                                 CSAT</li>
                         </ul>
-                        <nuxt-link to="#" class="btn btn-primary cta-color btn-style mt-4">Contact Us</nuxt-link>
+                        <a target='_blank'
+                        href="https://tawk.to/chat/6007f35ac31c9117cb707dfb/1esfgt70l" class="btn btn-primary cta-color btn-style mt-4">Contact Us</a>
                     </div>
                     <div class="col-lg-6 feature-grid-right mt-lg-0 mt-5">
                         <div class="call-grids-w3 d-grid">
                             <div class="grids-1 box-wrap">
                                 <a href="#more" class="icon"><span class="fa fa-comment"></span></a>
-                                <h4><a href="#cohotek IT company" class="title-head">Chat</a></h4>
-                                <p>Feel like you could use a good live chat support? You know, the one that could work all hours of the night and on weekends? 
-                                    If that’s what you need, then TekBar would be the most comprehensive choice.
+                                <h4><a href="#tekbar IT company" class="title-head">Chat</a></h4>
+                                <p>Feel like you could use a good live chat support<span class='text-danger'>?</span> You know, the one that could work all hours of the night and on weekends? 
+                                    If that’s what you need, then <a
+                                    href="https://TekBar.tech">TekBar</a> would be the most comprehensive choice.
                                     </p>
                             </div>
                             <div class="grids-1 box-wrap">
                                 <a href="#more" class="icon"><span class="fa fa-envelope"></span></a>
-                                <h4><a href="#cohotek IT company" class="title-head">Emails (helpdesk)</a></h4>
-                                <p>Swamped by incoming emails from your clients? There is a way out. Email support at TekBar is your chance to
+                                <h4><a href="#tekbar IT company" class="title-head">Emails (helpdesk)</a></h4>
+                                <p>Swamped by incoming emails from your clients<span class='text-danger'>?</span> There is a way out. Email support at <a
+                                    href="https://TekBar.tech">TekBar</a> is your chance to
                                      save time and get all customers' requests fulfilled fast and in a professional manner.</p>
                             </div>
                             <div class="grids-1 box-wrap">
                                 <a href="#more" class="icon"><span class="fa fa-phone"></span></a>
-                                <h4><a href="#cohotek IT company" class="title-head">Inbound / Outbound calls </a></h4>
+                                <h4><a href="#tekbar IT company" class="title-head">Inbound / Outbound calls </a></h4>
                                 <p>
-                                        Struggle to streamline your inbound call process? Stop wrestling with it. Instead choose a flexible and functional call center at TekBar. 
+                                        Struggle to streamline your inbound call process<span class='text-danger'>?</span> Stop wrestling with it. Instead choose a flexible and functional call center at <a
+                                        href="https://TekBar.tech">TekBar</a>. 
                                 </p>
                             </div>
                             <div class="grids-1 box-wrap">
                                 <a href="#more" class="icon"><span class="fa fa-user"></span></a>
-                                <h4><a href="#cohotek IT company" class="title-head">Dedicated agent</a></h4>
+                                <h4><a href="#tekbar IT company" class="title-head">Dedicated agent</a></h4>
                                 <p>A high-quality dedicated agent service not only reduces costs, but also helps you gain a good reputation and build brand trust. </p>
                             </div>
                         </div>
@@ -124,7 +130,7 @@
                 </div>
                 <div class="row mobile-info-inn mx-lg-0 mt-md-5 mt-4">
                     <div class="col-lg-6 image-left">
-                        <img src="@/assets/images/cohotek-it-comapny-services.png" class="img-fluid" alt="cohotek web development company in lagos">
+                        <img src="@/assets/images/tekbar-it-comapny-services.png" class="img-fluid" alt="tekbar web development company in lagos">
                     </div>
                     <div class="col-lg-6 mobile-right mt-lg-0 mt-5">
                         <div class="row mobile-right-grids mb-lg-5 mb-4">
@@ -134,7 +140,7 @@
                                 </div>
                             </div>
                             <div class="col-10 mobile-right-info">
-                                <h6><a href="#cohotek IT company">Digital Marketing</a></h6>
+                                <h6><a href="#tekbar IT company">Digital Marketing</a></h6>
                                 <p>  Our team of online marketers, social media managers 
                                     and digital analysts are ready to help grow your online business. 
                                     We help you grow your business with the aid of the internet.</p>
@@ -147,8 +153,8 @@
                                 </div>
                             </div>
                             <div class="col-10 mobile-right-info">
-                                <h6><a href="#cohotek IT company">Support</a></h6>
-                                <p>Work with cohotek, a team who can always reach and consult 
+                                <h6><a href="#tekbar IT company">Support</a></h6>
+                                <p>Work with tekbar, a team who can always reach and consult 
                                     and produce a quick solution in case of a potential problem.</p>
                             </div>
                         </div>
@@ -159,7 +165,7 @@
                                 </div>
                             </div>
                             <div class="col-10 mobile-right-info">
-                                <h6><a href="#cohotek IT company">SEO</a></h6>
+                                <h6><a href="#tekbar IT company">SEO</a></h6>
                                 <p>Do you want to see your website in Google TOP search result?
                                      We have the right tools and techniques to help you get on the first page!</p>
                             </div>
@@ -187,11 +193,11 @@
           
             head(){
     return {
-      title: "ICT services offered by us",
+      title: "Customer support and services we offer",
       meta:[
         
-          { hid: 'description6', name: 'description', content: 'cohotek IT company in Lagos Nigeria delivers innovative custom web designs, web development and digital marketing services.' },
-          { name: 'keywords', content: 'IT services, digital marketing, seo, web development in lagos, cohotek, it company, it firm, website, web design, web application, web, web development, wordpress, php, html, web instructor, developer, porfolio, henry onyemaobi,website instructor, website teacher' },
+      { hid: 'description6', name: 'description', content: 'Tekbar IT company delivers innovative customer support and services.' },
+          { name: 'keywords', content: 'customer support, digital marketing, seo, tekbar, it company, it firm, live chat, web design, community support, web, web development, wordpress,CRM, developer,virtual assistant, henry onyemaobi,customer service,data entry' },
         
       ]
     }

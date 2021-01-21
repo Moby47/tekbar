@@ -5,8 +5,8 @@
 
   
   <!-- banner section -->
-  <section id="home" class="banner">
-      <div id="banner-bg-effect" class="banner-effect"></div>
+  <section id="home" class="banner ">
+      <div id="banner-bg-effect" class="shade banner-effect"></div>
       <div class="container">
           <div class="row align-items-center">
               <div class="col-lg-7 col-md-12 col-sm-12 order-lg-first mt-lg-0 custom-margin">
@@ -19,13 +19,14 @@
                   <p>
                     Building Customized Teams in Customer Support and Services for Modern Companies.</p>
                   <div class="mt-5">
-             <a class="btn cta-color btn-primary btn-style mr-2 text-white" href="https://tawk.to/chat/6007f35ac31c9117cb707dfb/1esfgt70l">Contact Us</a>
+             <a class="btn cta-color btn-primary btn-style mr-2 text-white" target='_blank'
+              href="https://tawk.to/chat/6007f35ac31c9117cb707dfb/1esfgt70l">Contact Us</a>
           <nuxt-link class="btn btn-outline btn-outline-style text-white custom-hover" to="/services">Our Services </nuxt-link>
                   </div>
               </div>
               <div class="col-lg-5 col-md-12 col-sm-12 order-first text-lg-left text-center">
                   <div>
-                      <img src="@/assets/images/cohotek-it-company.png" alt="cohotek IT company"
+                      <img src="@/assets/images/tekbar-it-company.png" alt="tekbar IT company"
                        class="rounded-circle img-fluid hide-mobile">
                   </div>
               </div>
@@ -40,12 +41,12 @@
           <div class="row about-content">
               <div class="col-lg-6 info mb-lg-0 mb-sm-5 mb-4 align-center">
                   <h3 class="title">WHAT WE DO</h3>
-                  <h6>IT Care builds customized teams in Customer Support and Service for industry leading startups and modern companies. </h6>
+                  <h6><a href='https://tekbar.tech/'>TekBar</a> builds customized teams in Customer Support and Service for industry leading startups and modern companies. </h6>
                   <p class="mt-md-4 mt-3 mb-0">We have the global scale to tailor custom individuals or teams and processes for success to our many powerhouse clients.</p>
               </div>
               <div class="col-lg-6">
-                  <img src="@/assets/images/cohotek-web-search.png" class="img-fluid img-shadow" 
-                  alt="cohotek IT web development company">
+                  <img src="@/assets/images/tekbar-web-search.png" class="img-fluid img-shadow" 
+                  alt="Tekbar customer support and services company">
               </div>
           </div>
       </div>
@@ -67,7 +68,7 @@
             <div class="icon">
               <span class="fa fa-building"></span>
             </div>
-            <h4><a href="#url">Start-Ups Support</a></h4>
+            <h4><a href="#">Start-Ups Support</a></h4>
             <p>We provide an efficient, reliable, scalable cost-saving expert support service that covers your actual needs without extra payments.</p>
           </div>
         </div>
@@ -76,7 +77,7 @@
             <div class="icon">
               <span class="fa fa-certificate"></span>
             </div>
-            <h4><a href="#url">SaaS Support</a></h4>
+            <h4><a href="#">SaaS Support</a></h4>
             <p>Round-the-clock support service that turns your leads to clients and cares about your customers during the whole life cycle.</p>
           </div>
         </div>
@@ -86,7 +87,7 @@
             <div class="icon">
               <span class="fa fa-ticket"></span>
             </div>
-            <h4><a href="#url">eCommerce Support</a></h4>
+            <h4><a href="#">eCommerce Support</a></h4>
             <p>Customer support helps to keep clients satisfied and takes away the daily routine of customer care in a smart and easy way.</p>
           </div>
         </div>
@@ -119,7 +120,7 @@
                                           <span class="fa fa-star"></span>
                                           <span class="fa fa-star"></span>
                                       </div>
-                                      <p>Since TekBar joined the team, agents haven’t missed any calls or messages from customers. 
+                                      <p>Since <a href='https://tekbar.tech/'>TekBar</a> joined the team, agents haven’t missed any calls or messages from customers. 
                                         The engagement continues to succeed.</p>
                                       <div class="customers-bottom_sur">
                                           <div class="custo_grid">
@@ -145,7 +146,7 @@
                                           <span class="fa fa-star"></span>
                                           <span class="fa fa-star"></span>
                                       </div>
-                                      <p>An excellent choice for those who want to grow their client database. TekBar generated way more leads for 
+                                      <p>An excellent choice for those who want to grow their client database. <a href='https://tekbar.tech/'>TekBar</a> generated way more leads for 
                                         us than any other outsourcing service.</p>
                                       <div class="customers-bottom_sur">
                                           <div class="custo_grid">
@@ -171,7 +172,7 @@
                                           <span class="fa fa-star"></span>
                                           <span class="fa fa-star"></span>
                                       </div>
-                                      <p>It has been a great pleasure working with the TekBar Team. They are very productive and know how to adapt their work to meet our demands.</p>
+                                      <p>It has been a great pleasure working with the <a href='https://tekbar.tech/'>TekBar</a> Team. They are very productive and know how to adapt their work to meet our demands.</p>
                                       <div class="customers-bottom_sur">
                                           <div class="custo_grid">
                                               <h5>I Tweak</h5>
@@ -206,14 +207,14 @@
                           <div class="icon">
                               <span class="fa fa-tasks"></span>
                           </div>
-                          <p class="value">74</p>
+                          <p class="value">94</p>
                           <p class="title white">Task Handled</p>
                       </div>
                       <div class="counter">
                           <div class="icon">
                               <span class="fa fa-headphones"></span>
                           </div>
-                          <p class="value">12</p>
+                          <p class="value">47</p>
                           <p class="title white">Clients Served</p>
                       </div>
                       <div class="counter">
@@ -294,11 +295,11 @@ export default {
 
   head(){
     return {
-      title: "Web Development IT Company in Lagos Nigeria",
+      title: "Tekbar customer support and services company",
       meta:[
         
-          { hid: 'description6', name: 'description', content: 'cohotek IT company in Lagos Nigeria delivers innovative custom web designs, web development and digital marketing services.' },
-          { name: 'keywords', content: 'web development in lagos, digital marketing, seo, cohotek, it company, it firm, website, web design, web application, web, web development, wordpress, php, html, web instructor, developer, porfolio, henry onyemaobi,website instructor, website teacher' },
+          { hid: 'description6', name: 'description', content: 'Tekbar IT company delivers innovative customer support and services.' },
+          { name: 'keywords', content: 'customer support, digital marketing, seo, tekbar, it company, it firm, live chat, web design, community support, web, web development, wordpress,CRM, developer,virtual assistant, henry onyemaobi,customer service,data entry' },
         
       ]
     }
