@@ -174,7 +174,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="team-colomn col-lg-4 col-md-6 col-sm-6 mt-lg-0 mt-5">
+              <!--  <div class="team-colomn col-lg-4 col-md-6 col-sm-6 mt-lg-0 mt-5">
                         <div class="team-main-6">
                             <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/timothy-orkuma.png" alt="Orkuma Timothy"></a>
                             <h6><a href="#team-single.html" class="title-team-32">Orkuma Timothy</a></h6>
@@ -184,7 +184,7 @@
                                 <a class="facebook" href="https://www.linkedin.com/in/timothy-orkuma-3a2096147" target='_blank'><span class="fa fa-linkedin" aria-hidden="true"></span></a>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
 
                     <div class="team-colomn col-lg-4 col-md-6 col-sm-6 mt-lg-0 mt-5">
                         <div class="team-main-6">
