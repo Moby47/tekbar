@@ -152,7 +152,7 @@
                           </div>
                       </div>
                   </div>
-                  <div class="team-colomn col-lg-4 col-md-6 col-sm-6 mt-lg-0 mt-5">
+               <!--  <div class="team-colomn col-lg-4 col-md-6 col-sm-6 mt-lg-0 mt-5">
                     <div class="team-main-6">
                         <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/mary-airhunde.png" alt="Mary Airhunde"></a>
                         <h6><a href="#team-single.html" class="title-team-32">Mary Airhunde</a></h6>
@@ -162,7 +162,7 @@
                             <a class="facebook" href="https://www.linkedin.com/in/mary-oghogho-airhunde-32098b125" target='_blank'><span class="fa fa-linkedin" aria-hidden="true"></span></a>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 <div class="team-colomn col-lg-4 col-md-6 col-sm-6 mt-lg-0 mt-5">
                     <div class="team-main-6">
                         <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/ekwutosi-okeh.png" alt="Ekwutosi Okeh"></a>
