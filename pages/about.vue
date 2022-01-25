@@ -145,7 +145,7 @@
                       <div class="team-main-6">
                           <a href="#team-single.html"><img class="img-fluid force-img" src="@/assets/images/vincent-moyaki.png" alt="Vincent Moyaki"></a>
                           <h6><a href="#team-single.html" class="title-team-32">Vincent Moyaki</a></h6>
-                          <p class="sm-text-32">Integration Manager</p>
+                          <p class="sm-text-32">Sr. Operations Manager</p>
   
                           <div class="social-teams mt-2">
                               <a class="facebook" href="https://www.linkedin.com/in/vincent-moyaki-180b15167" target='_blank'><span class="fa fa-linkedin" aria-hidden="true"></span></a>
