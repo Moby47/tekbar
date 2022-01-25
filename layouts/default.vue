@@ -98,7 +98,7 @@
             <div class="col-lg-8 text-lg-left text-center mb-lg-0 mb-3">
             <!-- <p class="copyright">© 2020 Captivate. All Rights Reserved. Design by <a
                 href="https://w3layouts.com/">W3Layouts</a></p>--> 
-                <p class="copyright">© 2021. All Rights Reserved. <a
+                <p class="copyright">© 2022. All Rights Reserved. <a
                   href="https://TekBar.tech">TekBar</a></p>
             </div>
             <div class="col-lg-4 align-center text-lg-right text-center">

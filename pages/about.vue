@@ -116,7 +116,7 @@
           <div class="container">
               <div class="row align-items-center">
                   <div class="col-lg-8 offset-lg-2 col-md-12 col-sm-12">
-                      <h4 class="section-title">MEET A FEW OF OUR HELPERS</h4>
+                      <h4 class="section-title">MEET THE TEAM</h4>
                       <p class="text-center">We put culture in the forefront.</p>
                   </div>
               </div>

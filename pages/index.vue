@@ -151,8 +151,8 @@
                                       <div class="customers-bottom_sur">
                                           <div class="custo_grid">
                                               <h5>Aj</h5>
-                                              <span><a href='https://habitat.com.ng' target='_blank'>
-                                                Link</a></span>
+                                            <!--  <span><a href='https://habitat.com.ng' target='_blank'>
+                                                Link</a></span> -->
                                           </div>
                                       </div>
                                   </div>
@@ -176,8 +176,8 @@
                                       <div class="customers-bottom_sur">
                                           <div class="custo_grid">
                                               <h5>I Tweak</h5>
-                                              <span><a href='https://www.itweaktech.com/home/' target='_blank'>
-                                                Link</a></span>
+                                             <!-- <span><a href='https://www.itweaktech.com/home/' target='_blank'>
+                                                Link</a></span> -->
                                           </div>
                                       </div>
                                   </div>
@@ -207,21 +207,21 @@
                           <div class="icon">
                               <span class="fa fa-tasks"></span>
                           </div>
-                          <p class="value">94</p>
+                          <p class="value">194</p>
                           <p class="title white">Task Handled</p>
                       </div>
                       <div class="counter">
                           <div class="icon">
                               <span class="fa fa-headphones"></span>
                           </div>
-                          <p class="value">47</p>
+                          <p class="value">87</p>
                           <p class="title white">Clients Served</p>
                       </div>
                       <div class="counter">
                           <div class="icon">
                               <span class="fa fa-users"></span>
                           </div>
-                          <p class="value">23</p>
+                          <p class="value">20</p>
                           <p class="title white">Agents</p>
                       </div>
                   </div>
